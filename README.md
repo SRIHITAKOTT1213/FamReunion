@@ -43,9 +43,10 @@ bundle exec jekyll serve -H 0.0.0.0 -P 4001 # -H and -P are optional
 
 
 # Team Baddies Agile Manifesto
-
-Quality > Quantity
-Communication > Keeping to self
-Teamwork > Individual work
-Adapting to change > Obessing over a plan
-Everyone's understanding > complicated individual work
+| Priority      |    Over    | Not Ideal |
+|---------------|------------|------------|
+| Quality |     >       |       Quantity        |
+| Communication |     >       |       Keeping to self        |
+| Teamwork |     >       |       Individual work        |
+| Adapting to change |     >       |       Obessing over a plan        |
+| Everyone's understanding |     >       |       complicated individual work        |
