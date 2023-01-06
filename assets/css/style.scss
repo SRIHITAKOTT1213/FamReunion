@@ -1,23 +1,4 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-
-/* "row style" is flexible size and aligns pictures in center */
-.row {
-    align-items: center;
-    display: flex;
-  }
-  
-  /* "column style" is one-third of the width with padding */
-  .column {
-    flex: 33.33%;
-    padding: 5px;
-  }
-
-
-  html, body, input, textarea, select, button, a {   
-    color: #f7b0e5 !important;
-  }
-  
+@import 'jekyll-theme-cayman';

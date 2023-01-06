@@ -1,9 +1,7 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme 
-
+# remote_theme: pages-themes/cayman@v0.2.0
 title: "Team Baddies Project"
 description: "Team Baddies take on their next project."
 gitorg: "https://github.com/SRIHITAKOTT1213/FamReunion"
 description: "A group of four girls start a project"
+theme: jekyll-theme-cayman
 

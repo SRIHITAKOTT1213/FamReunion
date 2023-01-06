@@ -1,2 +1,6 @@
 Gemfile.lock
 _site
+_layouts/default.html
+_site/assets/css/ie.scss
+_site/assets/css/style.css
+assets/css/style.scss
